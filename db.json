@@ -40,5 +40,22 @@
       "user": "root",
       "password": "toor"
     }
+  ],
+  "planets": [
+    {
+      "id": 1,
+      "name": "Uranus",
+      "content": "Uranus is the seventh planet from the Sun. Its name is a reference to the Greek god of the sky..."
+    },
+    {
+      "id": 2,
+      "name": "Neptune",
+      "content": "Neptune is the eighth and farthest known Solar planet from the Sun. In the Solar System, it is the fourth-largest..."
+    },
+    {
+      "id": 3,
+      "name": "Pluto",
+      "content": "Pluto (minor planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt..."
+    }
   ]
 }
