@@ -44,18 +44,33 @@
   "planets": [
     {
       "id": 1,
-      "name": "Uranus",
-      "content": "Uranus is the seventh planet from the Sun. Its name is a reference to the Greek god of the sky..."
+      "name": "Mars",
+      "content": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the \"Red Planet\".  Mars is a terrestrial planet with a thin atmosphere, with surface features reminiscent of the impact craters of the Moon and the valleys, deserts and polar ice caps of Earth.<br>The days and seasons are comparable to those of Earth, because the rotational period as well as the tilt of the rotational axis relative to the ecliptic plane are similar. Mars has two moons, Phobos and Deimos, which are small and irregularly shaped. These may be captured asteroids, similar to 5261 Eureka, a Mars trojan..."
     },
     {
       "id": 2,
-      "name": "Neptune",
-      "content": "Neptune is the eighth and farthest known Solar planet from the Sun. In the Solar System, it is the fourth-largest..."
+      "name": "Jupiter",
+      "content": "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.<br> Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume. It likely has a rocky core of heavier elements, but like the other giant planets, Jupiter lacks a well-defined solid surface..."
     },
     {
       "id": 3,
+      "name": "Saturn",
+      "content": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth. It only has one-eighth the average density of Earth; however, with its larger volume, Saturn is over 95 times more massive. <br> Saturn's interior is most likely composed of a core of iron–nickel and rock (silicon and oxygen compounds). Its core is surrounded by a deep layer of metallic hydrogen, an intermediate layer of liquid hydrogen and liquid helium, and finally a gaseous outer layer. Saturn has a pale yellow hue due to ammonia crystals in its upper atmosphere..."
+    },
+    {
+      "id": 4,
+      "name": "Uranus",
+      "content": "Uranus is the seventh planet from the Sun. It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus is similar in composition to Neptune, and both have bulk chemical compositions which differ from that of the larger gas giants Jupiter and Saturn. <br> Uranus's atmosphere is similar to Jupiter's and Saturn's in its primary composition of hydrogen and helium, but it contains more \"ices\" such as water, ammonia, and methane, along with traces of other hydrocarbons. It has the coldest planetary atmosphere in the Solar System, with a minimum temperature of 49 K (−224 °C; −371 °F), and has a complex, layered cloud structure with water thought to make up the lowest clouds and methane the uppermost layer of clouds..."
+    },
+    {
+      "id": 5,
+      "name": "Neptune",
+      "content": "Neptune is the eighth and farthest known Solar planet from the Sun. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, slightly more massive than its near-twin Uranus.<br> In addition, these weather patterns are driven by the strongest sustained winds of any planet in the Solar System, with recorded wind speeds as high as 2,100 km/h (580 m/s; 1,300 mph). Because of its great distance from the Sun, Neptune's outer atmosphere is one of the coldest places in the Solar System, with temperatures at its cloud tops approaching 55 K (−218 °C; −361 °F). Temperatures at the planet's centre are approximately 5,400 K (5,100 °C; 9,300 °F)..."
+    },
+    {
+      "id": 6,
       "name": "Pluto",
-      "content": "Pluto (minor planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt..."
+      "content": "Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It was the first and the largest Kuiper belt object to be discovered. After Pluto was discovered in 1930, it was declared to be the ninth planet from the Sun. Beginning in the 1990s, its status as a planet was questioned following the discovery of several objects of similar size in the Kuiper belt and the scattered disc, including the dwarf planet Eris. <br> Pluto is the ninth-largest and tenth-most-massive known object directly orbiting the Sun. It has a moderately eccentric and inclined orbit during which it ranges from 30 to 49 astronomical units or AU (4.4–7.4 billion km) from the Sun..."
     }
   ],
   "observatories": [
@@ -65,7 +80,7 @@
       "name": "Arecibo Observatory",
       "shortContent": "The Arecibo Observatory, also known as the National Astronomy and Ionosphere Center (NAIC) and formerly known as the Arecibo Ionosphere Observatory, is an observatory in Barrio Esperanza, Arecibo, Puerto Rico owned by the US National Science Foundation (NSF). The observatory's main instrument was the Arecibo Telescope, a 305 m (1,000 ft) spherical reflector dish built into...",
       "contentTop": "The Arecibo Observatory, also known as the National Astronomy and Ionosphere Center (NAIC) and formerly known as the Arecibo Ionosphere Observatory, is an observatory in Barrio Esperanza, Arecibo, Puerto Rico owned by the US National Science Foundation (NSF). The observatory's main instrument was the Arecibo Telescope, a 305 m (1,000 ft) spherical reflector dish built into a natural sinkhole, with a cable-mount steerable receiver and several radar transmitters for emitting signals mounted 150 m (492 ft) above the dish. Completed in 1963, it was the world's largest single-aperture telescope for 53 years, surpassed in July 2016 by the Five-hundred-meter Aperture Spherical Telescope (FAST) in China.",
-      "imgUrl": "https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/ma_0115_NF_Arecibo_aerial.jpg?itok=AB38bI6a",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arecibo_Radiotelescopio_SJU_06_2019_7428.jpg/1280px-Arecibo_Radiotelescopio_SJU_06_2019_7428.jpg",
       "imgDescribe": "On 1 December 2020, the 900-ton instrument platform of the Arecibo Observatory crashed into its dish, which is cradled in a natural sinkhole. RICARDO ARDUENGO/AFP VIA GETTY IMAGES",
       "contentBottom": "Following two breaks in cables supporting the receiver platform in the prior months, the NSF stated on November 19, 2020 that it was decommissioning the telescope due to safety concerns. On December 1, 2020 the main telescope collapsed before controlled demolition could be conducted. NASA conducted a full investigation and reported the findings in Reference \"Arecibo Observatory Auxiliary M4N Socket Termination Failure Investigation\". The observatory includes a radio telescope, a LIDAR facility, and a visitor center, which are expected to remain operational after the damage from the main telescope collapse has been assessed.",
       "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3787.0192329663255!2d-66.75500828469355!3d18.34640697926478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c02db84dca94fc1%3A0x1ce481f2793da255!2zxJDDoGkgcXVhbiBzw6F0IEFyZWNpYm8!5e0!3m2!1svi!2s!4v1629952770857!5m2!1svi!2s"
