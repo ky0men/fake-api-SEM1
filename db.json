@@ -535,6 +535,510 @@
       "category": "Solar system",
       "imgContent": "Artist's view of Eris and Dysnomia (Unannotated)",
       "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo0724e.jpg"
+    },
+    {
+      "id": 22,
+      "category": "Exoplanets",
+      "imgContent": "Artist's concept of exoplanet orbiting Fomalhaut",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0821b.jpg"
+    },
+    {
+      "id": 23,
+      "category": "Exoplanets",
+      "imgContent": "Visualisation of Fomalhaut and Fomalhaut b (Artist’s Impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic2006a.jpg"
+    },
+    {
+      "id": 24,
+      "category": "Exoplanets",
+      "imgContent": "Artist’s Impression of the Hypothesized “Planet Nine”",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic2021b.jpg"
+    },
+    {
+      "id": 25,
+      "category": "Exoplanets",
+      "imgContent": "Wasp-39b and its parent star (artist’s impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1804a.jpg"
+    },
+    {
+      "id": 26,
+      "category": "Exoplanets",
+      "imgContent": "Artist’s impression of the deep blue planet HD 189733b",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1312a.jpg"
+    },
+    {
+      "id": 27,
+      "category": "Exoplanets",
+      "imgContent": "Exotic blue planet HD 189733b (artist’s impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1312d.jpg"
+    },
+    {
+      "id": 28,
+      "category": "Exoplanets",
+      "imgContent": "Artist’s impression of WASP-107b",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1809a.jpg"
+    },
+    {
+      "id": 29,
+      "category": "Exoplanets",
+      "imgContent": "Artist’s impression of the TRAPPIST-1 planetary system",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/ann1703a.jpg"
+    },
+    {
+      "id": 30,
+      "category": "Exoplanets",
+      "imgContent": "Artist's concept of nearest extrasolar planet to our Solar System",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0613a.jpg"
+    },
+    {
+      "id": 31,
+      "category": "Exoplanets",
+      "imgContent": "Artist’s impression of exoplanet orbiting two stars",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1619a.jpg"
+    },
+    {
+      "id": 32,
+      "category": "Exoplanets",
+      "imgContent": "Hubble makes precise measure of extrasolar world's true mass (artist's impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo0227a.jpg"
+    },
+    {
+      "id": 33,
+      "category": "Exoplanets",
+      "imgContent": "European astronomers observe first evaporating planet (artist's impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0303b.jpg"
+    },
+    {
+      "id": 34,
+      "category": "Exoplanets",
+      "imgContent": "Exoplanet K2-18b (Artist’s Impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1916a.jpg"
+    },
+    {
+      "id": 35,
+      "category": "Exoplanets",
+      "imgContent": "Exomoon orbiting its planet (artist’s impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1817a.jpg"
+    },
+    {
+      "id": 36,
+      "category": "Exoplanets",
+      "imgContent": "Hubble Probes Cotton Candy Planets",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1960a.jpg"
+    },
+    {
+      "id": 37,
+      "category": "Exoplanets",
+      "imgContent": "Artist's impression of gas streaming from GJ 3470b",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1852a.jpg"
+    },
+    {
+      "id": 38,
+      "category": "Exoplanets",
+      "imgContent": "Hubble Probes Exoplanet WASP-79b (Artist’s Impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo2018a.jpg"
+    },
+    {
+      "id": 39,
+      "category": "Exoplanets",
+      "imgContent": "Study finds unexpectedly primitive atmosphere around warm Neptune",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/goddard1701a.jpg"
+    },
+    {
+      "id": 40,
+      "category": "Exoplanets",
+      "imgContent": "Artist’s impression of 55 Cancri e (close-up)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1603b.jpg"
+    },
+    {
+      "id": 41,
+      "category": "Exoplanets",
+      "imgContent": "Artist’s impression of 55 Cancri e",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1603a.jpg"
+    },
+    {
+      "id": 42,
+      "category": "Exoplanets",
+      "imgContent": "Artist's concept of exoplanet with comet-like tail",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1021a.jpg"
+    },
+    {
+      "id": 43,
+      "category": "Galaxies",
+      "imgContent": "Antennae Galaxies reloaded",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1345a.jpg"
+    },
+    {
+      "id": 44,
+      "category": "Galaxies",
+      "imgContent": "Magnetic monster NGC 1275",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0817a.jpg"
+    },
+    {
+      "id": 45,
+      "category": "Galaxies",
+      "imgContent": "The Stellar Forge",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw2049a.jpg"
+    },
+    {
+      "id": 46,
+      "category": "Galaxies",
+      "imgContent": "Hubble mosaic of the majestic Sombrero Galaxy",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo0328a.jpg"
+    },
+    {
+      "id": 47,
+      "category": "Galaxies",
+      "imgContent": "Out of this whirl: The Whirlpool Galaxy (M51) and companion galaxy",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0506a.jpg"
+    },
+    {
+      "id": 48,
+      "category": "Galaxies",
+      "imgContent": "A poster-size image of the beautiful barred spiral galaxy NGC 1300",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo0501a.jpg"
+    },
+    {
+      "id": 49,
+      "category": "Galaxies",
+      "imgContent": "Hubble's newest camera takes a deep look at two merging galaxies",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0206b.jpg"
+    },
+    {
+      "id": 50,
+      "category": "Galaxies",
+      "imgContent": "Hubble view of Messier 106",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1302a.jpg"
+    },
+    {
+      "id": 51,
+      "category": "Galaxies",
+      "imgContent": "Flocculent spiral NGC 2841",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1104a.jpg"
+    },
+    {
+      "id": 52,
+      "category": "Galaxies",
+      "imgContent": "Stellar nursery in the arms of NGC 1672",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0706a.jpg"
+    },
+    {
+      "id": 53,
+      "category": "Galaxies",
+      "imgContent": "The magnificent starburst galaxy Messier 82",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0604a.jpg"
+    },
+    {
+      "id": 54,
+      "category": "Galaxies",
+      "imgContent": "A grazing encounter between two spiral galaxies",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo9941a.jpg"
+    },
+    {
+      "id": 55,
+      "category": "Galaxies",
+      "imgContent": "Eye in the Sky",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw2108a.jpg"
+    },
+    {
+      "id": 56,
+      "category": "Galaxies",
+      "imgContent": "Galaxy playing twister",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo0123a.jpg"
+    },
+    {
+      "id": 57,
+      "category": "Galaxies",
+      "imgContent": "Spectacular Hubble view of Centaurus A",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1110a.jpg"
+    },
+    {
+      "id": 58,
+      "category": "Galaxies",
+      "imgContent": "Twins with differences",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1805a.jpg"
+    },
+    {
+      "id": 59,
+      "category": "Galaxies",
+      "imgContent": "Open Arms",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw2006a.jpg"
+    },
+    {
+      "id": 60,
+      "category": "Galaxies",
+      "imgContent": "A Spiral in Profile",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1940a.jpg"
+    },
+    {
+      "id": 61,
+      "category": "Galaxies",
+      "imgContent": "In Bloom",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1926a.jpg"
+    },
+    {
+      "id": 62,
+      "category": "Galaxies",
+      "imgContent": "Birds of a Feather",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw2026a.jpg"
+    },
+    {
+      "id": 63,
+      "category": "Galaxies",
+      "imgContent": "Hubble snaps heavyweight of the Leo Triplet",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1006a.jpg"
+    },
+    {
+      "id": 64,
+      "category": "Spacecraft",
+      "imgContent": "Hubble Space Telescope sporting new solar arrays during SM3B",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/s109e5706.jpg"
+    },
+    {
+      "id": 65,
+      "category": "Spacecraft",
+      "imgContent": "Restoring Hubble to health",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/ann0814.jpg"
+    },
+    {
+      "id": 66,
+      "category": "Spacecraft",
+      "imgContent": "Hubble Space Telescope in space",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/hubble_space.jpg"
+    },
+    {
+      "id": 67,
+      "category": "Spacecraft",
+      "imgContent": "SM3A: Servicing Tasks Performed using the RMS",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/s103e5209.jpg"
+    },
+    {
+      "id": 68,
+      "category": "Spacecraft",
+      "imgContent": "SM2: Maintenance of the Magnetic Sensing System (MSS)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/s82e5652.jpg"
+    },
+    {
+      "id": 69,
+      "category": "Spacecraft",
+      "imgContent": "SM2: Safety on Board",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/s82e5422.jpg"
+    },
+    {
+      "id": 70,
+      "category": "Spacecraft",
+      "imgContent": "SM2: Hubble in Free Orbit",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/s82e5937.jpg"
+    },
+    {
+      "id": 71,
+      "category": "Spacecraft",
+      "imgContent": "Hubble in orbit",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/hubble_in_orbit1.jpg"
+    },
+    {
+      "id": 72,
+      "category": "Spacecraft",
+      "imgContent": "SM3A: Smith tied to the RMS",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/sts103_701_047.jpg"
+    },
+    {
+      "id": 73,
+      "category": "Spacecraft",
+      "imgContent": "Hubble Space Telescope over Earth",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/hubble_earth.jpg"
+    },
+    {
+      "id": 74,
+      "category": "Spacecraft",
+      "imgContent": "SM3A: A Radio Transmitter is being replaced",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/sts103_701_009.jpg"
+    },
+    {
+      "id": 75,
+      "category": "Spacecraft",
+      "imgContent": "SM3B - Hubble being 'grappled'",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/hst_grapple.jpg"
+    },
+    {
+      "id": 76,
+      "category": "Spacecraft",
+      "imgContent": "SM3B - Hubble is released",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/hubble_release.jpg"
+    },
+    {
+      "id": 77,
+      "category": "Spacecraft",
+      "imgContent": "SM3B - Hubble's solar panels unfolding",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/solarpanels_unfold.jpg"
+    },
+    {
+      "id": 78,
+      "category": "Spacecraft",
+      "imgContent": "Hubble Left Alone in Space",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/hubble_release2.jpg"
+    },
+    {
+      "id": 79,
+      "category": "Spacecraft",
+      "imgContent": "Screenshot of Hubblecast 128",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/ann2008a.jpg"
+    },
+    {
+      "id": 80,
+      "category": "Spacecraft",
+      "imgContent": "Artist rendition of Hubble",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/hubble002.jpg"
+    },
+    {
+      "id": 81,
+      "category": "Spacecraft",
+      "imgContent": "Hubble Space Telescope approaches Shuttle Endeavour",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/10093056.jpg"
+    },
+    {
+      "id": 82,
+      "category": "Spacecraft",
+      "imgContent": "Screenshot of Hubblecast 41",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/ann1016a.jpg"
+    },
+    {
+      "id": 83,
+      "category": "Spacecraft",
+      "imgContent": "SM4: Astronaut Michael Good and the night sky",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/s125e009194.jpg"
+    },
+    {
+      "id": 84,
+      "category": "Spacecraft",
+      "imgContent": "Bringing Hubble out of safe mode",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/ann0815.jpg"
+    },
+    {
+      "id": 85,
+      "category": "Star",
+      "imgContent": "Hubble Celebrates its 31st anniversary with a magnificent view of AG Carinae",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic2105a.jpg"
+    },
+    {
+      "id": 86,
+      "category": "Star",
+      "imgContent": "Hubble image of variable star RS Puppis",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1323a.jpg"
+    },
+    {
+      "id": 87,
+      "category": "Star",
+      "imgContent": "Hubble watches light echo from mysterious erupting star (December 2002 image)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0304e.jpg"
+    },
+    {
+      "id": 88,
+      "category": "Star",
+      "imgContent": "Hubble sees a cosmic caterpillar",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1335a.jpg"
+    },
+    {
+      "id": 89,
+      "category": "Star",
+      "imgContent": "A glowing jet from a young star",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1307a.jpg"
+    },
+    {
+      "id": 90,
+      "category": "Star",
+      "imgContent": "A star set to explode",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1401a.jpg"
+    },
+    {
+      "id": 91,
+      "category": "Star",
+      "imgContent": "Violent birth announcement from an infant star",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1421a.jpg"
+    },
+    {
+      "id": 92,
+      "category": "Star",
+      "imgContent": "Artist's illustration of a young red dwarf stripping away a planet's atmosphere",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1846a.jpg"
+    },
+    {
+      "id": 93,
+      "category": "Star",
+      "imgContent": "A young star takes centre stage",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1509a.jpg"
+    },
+    {
+      "id": 94,
+      "category": "Star",
+      "imgContent": "A matter of distance",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/potw1717a.jpg"
+    },
+    {
+      "id": 95,
+      "category": "Star",
+      "imgContent": "Hubble spies vast gas disk around unique massive star",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1521a.jpg"
+    },
+    {
+      "id": 96,
+      "category": "Star",
+      "imgContent": "Oldest star in solar neighbourhood",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1308a.jpg"
+    },
+    {
+      "id": 97,
+      "category": "Star",
+      "imgContent": "Hubble Heritage Project's First Anniversary. A View of HH 32",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo9935a.jpg"
+    },
+    {
+      "id": 98,
+      "category": "Star",
+      "imgContent": "Artist's impression of disc around a neutron star",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1843a.jpg"
+    },
+    {
+      "id": 99,
+      "category": "Star",
+      "imgContent": "Supernova 1987a",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo9719b.jpg"
+    },
+    {
+      "id": 100,
+      "category": "Star",
+      "imgContent": "Gas Cloud near Eta Carinae (artist's impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo9606a.jpg"
+    },
+    {
+      "id": 101,
+      "category": "Star",
+      "imgContent": "Location of the M81/M82 galaxy group on the sky (ground-based image)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0801h.jpg"
+    },
+    {
+      "id": 102,
+      "category": "Star",
+      "imgContent": "Red dwarf star CHXR 73 A and companion object (artist's concept)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0610b.jpg"
+    },
+    {
+      "id": 103,
+      "category": "Star",
+      "imgContent": "Animation still image 4 (artist's impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0515i.jpg"
+    },
+    {
+      "id": 104,
+      "category": "Star",
+      "imgContent": "V838 Monocerotis in April 2002",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0304i.jpg"
+    },
+    {
+      "id": 105,
+      "category": "Star",
+      "imgContent": "Artist's impression of millisecond pulsar and companion",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0201b.jpg"
     }
   ],
   "bigbang": [
