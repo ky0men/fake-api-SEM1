@@ -409,6 +409,128 @@
       "mapUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d183896.3469915484!2d5.7133!3d43.9308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDU1JzUwLjkiTiA1wrA0Mic0Ny45IkU!5e0!3m2!1sen!2s!4v1629994402180!5m2!1sen!2s"
     }
   ],
+  "gallery": [
+    {
+      "id": 1,
+      "category": "Solar system",
+      "imgContent": "Latest Saturn Portrait",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1917a.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Solar system",
+      "imgContent": "Neptune and its smallest moon Hippocamp (artist’s impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1904a.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Solar system",
+      "imgContent": "Io transit of Jupiter",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo9913c.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Solar system",
+      "imgContent": "Quadruple Saturn moon transit snapped by Hubble",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0904a.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Solar system",
+      "imgContent": "Mars: closest approach 2007",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo0745a.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Solar system",
+      "imgContent": "An infrared view of Saturn",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo9818a.jpg"
+    },
+    {
+      "id": 7,
+      "category": "Solar system",
+      "imgContent": "The binary asteroid 288P (artist’s impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1715a.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Solar system",
+      "imgContent": "Hubble Observes the Total Lunar Eclipse (Artist’s Impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic2013a.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Solar system",
+      "imgContent": "Jupiter and Ganymede",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo0842a.jpg"
+    },
+    {
+      "id": 10,
+      "category": "Solar system",
+      "imgContent": "Saturn’s northern auroras",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic1815b.jpg"
+    },
+    {
+      "id": 11,
+      "category": "Solar system",
+      "imgContent": "Artist's impression of the hot planet Osiris",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1436a.jpg"
+    },
+    {
+      "id": 12,
+      "category": "Solar system",
+      "imgContent": "Artist’s impression of plumes on Europa",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1633c.jpg"
+    },
+    {
+      "id": 13,
+      "category": "Solar system",
+      "imgContent": "Artist's impression of Saturn's rings",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/astro_bk_still1.jpg"
+    },
+    {
+      "id": 14,
+      "category": "Solar system",
+      "imgContent": "Impact! [artist's impression]",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0508h.jpg"
+    },
+    {
+      "id": 15,
+      "category": "Solar system",
+      "imgContent": "Comet Tempel 1 close-up [artist's impression]",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0508e.jpg"
+    },
+    {
+      "id": 16,
+      "category": "Solar system",
+      "imgContent": "Mars at Opposition (the Acidalia Region)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo9927b.jpg"
+    },
+    {
+      "id": 17,
+      "category": "Solar system",
+      "imgContent": "Hubble Monitors Weather on Mars and Venus",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo9516i.jpg"
+    },
+    {
+      "id": 18,
+      "category": "Solar system",
+      "imgContent": "Artist’s illustration of aurorae and Ganymede",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo1509a.jpg"
+    },
+    {
+      "id": 19,
+      "category": "Solar system",
+      "imgContent": "Solar System (artist's impression)",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/solar_system_b.jpg"
+    },
+    {
+      "id": 20,
+      "category": "Solar system",
+      "imgContent": "Artist's View of Planet Around a Red Dwarf",
+      "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/opo0638a.jpg"
+    }
+  ],
   "bigbang": [
     {
       "img": "https://astronomy.com/-/media/D465EA16EC084D2A93D44C5BB7E7EFFB.jpg?mw=180",
