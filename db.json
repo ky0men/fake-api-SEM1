@@ -1041,6 +1041,71 @@
       "imgUrl": "https://cdn.spacetelescope.org/archives/images/screen/heic0201b.jpg"
     }
   ],
+  "videos": [
+    {
+      "id": 1,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/d-z0eQOEzkE",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Planets2008.jpg/1200px-Planets2008.jpg",
+      "videoTitle": "The Birth of the Solar System"
+    },
+    {
+      "id": 2,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/JSiZRahbKm4",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Solar_System_-_Simple_%2836469402574%29.jpg/1200px-The_Solar_System_-_Simple_%2836469402574%29.jpg",
+      "videoTitle": "Space _ Solar system Moon"
+    },
+    {
+      "id": 3,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/MK5E_7hOi-k",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Moons_of_solar_system_numbered.svg/768px-Moons_of_solar_system_numbered.svg.png",
+      "videoTitle": "How big is the Solar System?"
+    },
+    {
+      "id": 4,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/DqQzTjZN_-s",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Solar_System_by_Philippe_Put.jpg/640px-Solar_System_by_Philippe_Put.jpg",
+      "videoTitle": "Space Engine - Solar System"
+    },
+    {
+      "id": 5,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/xo5nXL2Gq28",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Solar_System_and_Star_R66.jpg",
+      "videoTitle": "Solar System Real Sound (All Planets)"
+    },
+    {
+      "id": 6,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/IWL3VlwiTxU",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jupiter_Image_3.jpg/1200px-Jupiter_Image_3.jpg",
+      "videoTitle": "The Loneliest Planet"
+    },
+    {
+      "id": 7,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/4iC9Qi3y9q8",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Messier-42-10.12.2004-filtered.jpeg",
+      "videoTitle": "The Cosmic Scale"
+    },
+    {
+      "id": 8,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/Rf5E2FSFOjU",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ISS046-E-27162_-_View_of_Earth.jpg/1199px-ISS046-E-27162_-_View_of_Earth.jpg",
+      "videoTitle": "Real Images From Our Solar System"
+    },
+    {
+      "id": 9,
+      "category": "Solar system",
+      "videoUrl": "https://www.youtube.com/embed/x-a-aCOscE4",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Image_of_aurora_at_night_from_the_ISS_01.jpg/1199px-Image_of_aurora_at_night_from_the_ISS_01.jpg",
+      "videoTitle": "Universe: Beyond the Millennium - Planets"
+    }
+  ],
   "bigbang": [
     {
       "img": "https://astronomy.com/-/media/D465EA16EC084D2A93D44C5BB7E7EFFB.jpg?mw=180",
